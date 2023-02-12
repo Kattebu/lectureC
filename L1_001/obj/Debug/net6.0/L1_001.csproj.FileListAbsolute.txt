@@ -1,0 +1,15 @@
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.csproj.AssemblyReference.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.AssemblyInfoInputs.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.AssemblyInfo.cs
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\bin\Debug\net6.0\L1_001.exe
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\bin\Debug\net6.0\L1_001.deps.json
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\bin\Debug\net6.0\L1_001.runtimeconfig.json
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\bin\Debug\net6.0\L1_001.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\bin\Debug\net6.0\L1_001.pdb
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\refint\L1_001.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.pdb
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\L1_001.genruntimeconfig.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture1\L1_001\obj\Debug\net6.0\ref\L1_001.dll
